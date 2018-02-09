@@ -5,7 +5,7 @@ public class Quizz {
 
   public static void main(String[] args){
 
-
+/*juste un commentaire */
     System.out.println("Hello !");
     
     String tabQuesAnsw[][] = initQuesAnsw();
